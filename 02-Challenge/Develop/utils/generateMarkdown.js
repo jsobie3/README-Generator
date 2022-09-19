@@ -34,6 +34,7 @@ Questions <br>
 
 GitHub <br>
  [GitHub](#Username) ${data.Username}
+ https://github.com/${data.Username}
 
 Email <br>
 [Email](#Email) ${data.Email}
